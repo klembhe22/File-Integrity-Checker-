@@ -8,7 +8,7 @@ DURATION: 4 WEEKS
 MENTOR: NEELA SANTOSH 
 
 DESCRIPTION OF THE TASK:
-File Integrity Checker – Full Task Description (Under 350 Words)
+File Integrity Checker
 
 The objective of this task is to understand file integrity verification using SHA-256 hashing. File integrity checking is an important cybersecurity concept used to confirm that a file has not been modified, corrupted, or tampered with. In this task, we create a Python program that calculates the SHA-256 hash value of every file in a selected directory. This hash can later be compared with the original hash to ensure that the file is authentic and unchanged.
 
