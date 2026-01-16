@@ -23,3 +23,10 @@ To replicate this concept, we created a Python program. The program uses two bui
 The program has two main functions. The calculate_sha256() function opens each file in binary mode and reads it in 65,536-byte chunks. This prevents memory overload and ensures large files can be hashed efficiently. The check_integrity() function validates the directory path and uses os.walk() to visit every file in the directory. For each file, it calculates the SHA-256 hash and prints the result.
 
 By comparing the generated hash values with the original ones—just like checking the Kali Linux ISO hash—users can confirm whether files are safe and unchanged. This task gives practical experience in implementing and understanding file integrity verification using hashing.
+
+
+
+
+OUTPUT:
+<img width="1918" height="914" alt="Image" src="https://github.com/user-attachments/assets/3e52c6a5-7468-4e2f-b73b-bbb90e23ddac" />
+<img width="1919" height="892" alt="Image" src="https://github.com/user-attachments/assets/d4f326c7-d4e0-4da9-9a13-3a847bbb5e08" />
